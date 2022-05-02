@@ -1,0 +1,21 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+table {
+  margin50%;
+  padding:0%;
+  height: 100%;
+  background-color: skyblue ;
+}
+body{
+   background-color: #f4ffe4; color: #333333;
+}
+footer{
+  margin:100;
+  padding:0%;
+  background-color: #f4ffe4; color: #333333;
+}
+.log out{
+  
+}

@@ -1,0 +1,22 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+footer{
+margin:100;
+}
+body{
+  background-color: #f4ffe4; color: #333333;
+}
+div{
+  margin:0;
+  padding:0%;
+  height: 100%;
+  background-color: #f4ffe4; color: #333333;
+}
+footer{
+  margin:0;
+  padding:0%;
+  background-color: #f4ffe4; color: #333333;
+}
